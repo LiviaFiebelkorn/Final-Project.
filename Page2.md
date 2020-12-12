@@ -12,6 +12,6 @@ When I first got Gretchy, I thought he was a girl so I named him *Gretchen* (aft
 -
 [Home](README.md)
 -
-[Next Page](Page2.md)
+[Next Page](Page3.md)
 -
 
