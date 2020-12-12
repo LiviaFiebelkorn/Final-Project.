@@ -11,5 +11,7 @@ My name is *Livia Fiebelkorn*. I am eighteen years old. I am from Center, Missou
 * Digital Art
 * Spending Time With Family
 
-[Home](Page 3.md)
-[Next Page](Page 2.md)
+[Home]()
+-
+[Next Page](Page2.md)
+-
